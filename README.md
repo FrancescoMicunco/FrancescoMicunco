@@ -4,7 +4,7 @@
 ### Hi there 👋 - I'm Passionate for BRAIN POWER, I think the code is a way to best express this power.
 
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFrancescoMicun1">
-
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 
 
 - 🌱 I’m currently learning React and React Native. 
