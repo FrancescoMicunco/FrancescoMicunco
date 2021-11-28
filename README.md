@@ -5,9 +5,10 @@
 
 📫 How to reach me:
 <div style='display:flex'>
-<p> send me an email at <a href="mailto:francescomicunco@gmail.com"></p>
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFrancescoMicun1">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+ <a href="mailto:francescomicunco@gmail.com">E-mail</a>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFrancescoMicun1" style='min-height:15px'>
+  
+
 </div>
 <div>
 <p>🌱 I’m currently learning React and React Native. </p>
