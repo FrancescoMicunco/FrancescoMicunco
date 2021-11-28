@@ -5,22 +5,29 @@
 
 📫 How to reach me:
 <div style='display:flex'>
-<p> send me an email at <a href="mailto:francescomicunco@gmail.com"></p>
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFrancescoMicun1">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+ <a href="mailto:francescomicunco@gmail.com">E-mail</a>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFrancescoMicun1" style='min-height:15px'>
+  
+
 </div>
-<div>
+<div style="border:solid 1px black; padding-top:10px">
 <p>🌱 I’m currently learning React and React Native. </p>
 </div>
-<div style='display:flex; margin-bottom:20px'>
+<div style='display:flex; margin-bottom:20px; margin-bottom:20px'>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </div>
+<div style="border:solid 1px black; padding-bottom:10px ">
+
+</div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescomicunco&show_icons=true&theme=radical)
+<br>
+<div style="border:solid 1px black; margin:10px auto;">
 
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescomicunco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
