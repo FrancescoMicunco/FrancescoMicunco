@@ -10,7 +10,7 @@
   
 
 </div>
-<div>
+<div style="border:solid 1px black; padding-top:10px">
 <p>🌱 I’m currently learning React and React Native. </p>
 </div>
 <div style='display:flex; margin-bottom:20px; margin-bottom:20px'>
@@ -19,8 +19,16 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </div>
+<div style="border:solid 1px black; padding-bottom:10px ">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescomicunco&show_icons=true&theme=radical)<br>
+</div><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescomicunco&show_icons=true&theme=radical)
+<br>
+<div style="border:solid 1px black; margin:10px auto;">
+
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescomicunco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
