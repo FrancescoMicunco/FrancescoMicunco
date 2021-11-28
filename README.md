@@ -3,7 +3,7 @@
 
 ### Hi there 👋 - I'm Passionate for BRAIN POWER, I think the code is a way to best express this power.
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/Facebook.svg" />
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFrancescoMicun1">
 
 
 
