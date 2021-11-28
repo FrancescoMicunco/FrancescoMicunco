@@ -1,7 +1,7 @@
 
 [![Header](https://raw.githubusercontent.com/FrancescoMicunco/francescomicunco/francescomicunco/meduse.jpg "Here we are")](https://some-url.dev/)
 
-### Hi there 👋 - Passionate for brain power, I think the code is the way to express thi power at the best.
+### Hi there 👋 - I'm Passionate for BRAIN POWER, I think the code is a way to best express this power.
 - 🌱 I’m currently learning React and React Native. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescomicunco&show_icons=true&theme=radical)
