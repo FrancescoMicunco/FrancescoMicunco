@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/FrancescoMicunco/francescomicunco/francescomicunco/readme_header.png "Here we are")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/FrancescoMicunco/francescomicunco/francescomicunco/meduse.jpg "Here we are")](https://some-url.dev/)
 
 ### Hi there 👋 - Passionate for brain power, I think the code is the way to express thi power at the best.
 - 🌱 I’m currently learning React and React Native. 
