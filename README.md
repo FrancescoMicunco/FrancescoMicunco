@@ -2,6 +2,11 @@
 [![Header](https://raw.githubusercontent.com/FrancescoMicunco/francescomicunco/francescomicunco/meduse.jpg "Here we are")](https://some-url.dev/)
 
 ### Hi there 👋 - I'm Passionate for BRAIN POWER, I think the code is a way to best express this power.
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
+
+
+
 - 🌱 I’m currently learning React and React Native. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescomicunco&show_icons=true&theme=radical)
@@ -13,6 +18,13 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </div>
 <br>📫 How to reach me: francescomicunco@gmail.com
+
+
+
+
+
+
+
 <!--
 **FrancescoMicunco/francescomicunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
