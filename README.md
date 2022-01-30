@@ -11,7 +11,9 @@
 
 </div>
 <div style="border:solid 1px black; padding-top:10px">
-<p>🌱 I use Javascript, ReactJs, NodeJs, ExpressJs, PostgreSQL, MongoDb </p>
+ <hr>
+ <br>
+<p>🌱 I use Javascript, ReactJs, Redux, NodeJs, ExpressJs, PostgreSQL, MongoDb </p>
 </div>
 <div style='display:flex; margin-bottom:20px; margin-bottom:20px'>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
