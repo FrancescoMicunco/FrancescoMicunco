@@ -7,9 +7,11 @@
 <div style='display:flex'>
  <a href="mailto:francescomicunco@gmail.com">E-mail</a>
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFrancescoMicun1" style='min-height:15px'>
-  
-
 </div>
+
+- 😄 Pronouns: ... He/Him
+- 🌱 I’m currently learning ... Typescript, Redux
+
 <div style="border:solid 1px black; padding-top:10px">
  <hr>
  <br>
