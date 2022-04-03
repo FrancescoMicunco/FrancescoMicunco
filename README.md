@@ -10,7 +10,7 @@
 </div>
 
 - 😄 Pronouns: ... He/Him
-- 🌱 I’m currently learning ... Typescript, Redux
+- 🌱 I’m currently learning ... Typescript
 
 <div style="border:solid 1px black; padding-top:10px">
  <hr>
