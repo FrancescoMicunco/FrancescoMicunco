@@ -10,7 +10,7 @@
 </div>
 
 - 😄 Pronouns: ... He/Him
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... SvelteJs
 
 <div style="border:solid 1px black; padding-top:10px">
  <hr>
